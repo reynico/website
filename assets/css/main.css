@@ -135,7 +135,7 @@ a:after {
 /* hello */
 #hello {
 	width: 100%;
-	padding-top: 200px;
+	padding-top: 10%;
 	/*padding-bottom: 250px;*/
 }
 
@@ -190,12 +190,12 @@ a:after {
 /* Social Links */
 #social {
 	width: 100%;
-	padding-top: 200px;
+	padding-top: 100px;
 	padding-bottom: 70px;
 }
 
 #social i {
-	font-size: 50px;
+	font-size: 40px;
 	color: #74cfae;
 }
 
